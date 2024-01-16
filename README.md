@@ -6,5 +6,5 @@
    -  JS;
    -  BEM methodology;
    -  JS method for communication with HTML;
-   -  
+  
 - DEMO LINK https://VladyslavKolisnyk.github.io/js_2048_game/
